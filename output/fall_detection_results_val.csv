@@ -1,0 +1,11 @@
+filename,ground_truth,prediction
+fall001.jpg,True,True
+fall002.jpg,True,True
+fall003.jpg,True,True
+fall004.jpg,True,False
+fall005.jpg,True,True
+fall006.jpg,True,True
+fall007.jpg,True,False
+fall008.jpg,True,True
+fall009.jpg,True,True
+fall010.jpg,True,False

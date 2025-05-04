@@ -1,0 +1,11 @@
+filename,ground_truth_expected,ground_truth_keywords,prediction_found,prediction_details
+01_01_01_01_01.wav,True,['ambulance'],True,['ambulance']
+01_02_01_01_01.wav,False,[],True,['dead']
+01_03_01_01_01.wav,False,[],True,"['dead', 'shot']"
+01_04_01_01_01.wav,True,['help'],True,['fire']
+02_01_01_01_01.wav,True,['ambulance'],False,[]
+02_02_01_01_01.wav,False,[],True,['dead']
+02_03_01_01_01.wav,False,[],False,[]
+02_04_01_01_01.wav,True,['help'],True,['fire']
+03_01_01_01_01.wav,True,['ambulance'],True,['ambulance']
+03_02_01_01_01.wav,False,[],True,['dead']

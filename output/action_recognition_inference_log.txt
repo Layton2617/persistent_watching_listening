@@ -1,0 +1,14 @@
+--- Running Action Recognition Inference --- 
+Loading action recognition model (slow_r50) onto cpu...
+Action recognition model loaded successfully.
+Processing video: /home/ubuntu/persistent_watching_listening_en/sample_videos/archery_official_sample.mp4
+Top 5 predictions for /home/ubuntu/persistent_watching_listening_en/sample_videos/archery_official_sample.mp4:
+  archery: 1.0000
+  throwing axe: 0.0000
+  playing paintball: 0.0000
+  stretching arm: 0.0000
+  riding or walking with horse: 0.0000
+
+Prediction for 'archery_official_sample.mp4':
+  Action: archery
+  Confidence: 1.0000

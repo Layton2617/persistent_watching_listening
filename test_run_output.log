@@ -1,0 +1,25 @@
+ubuntu@sandbox:~ $ cd /home/ubuntu/persistent_watching_listening && python3.10 main.py
+No command line arguments provided. Running with dummy data for basic test...
+Created dummy image and audio files for testing.
+Starting dataset processing...
+Image Dir: /home/ubuntu/persistent_watching_listening/dummy_dataset/images
+Audio Dir: /home/ubuntu/persistent_watching_listening/dummy_dataset/audio
+Output Dir: /home/ubuntu/persistent_watching_listening/dummy_output
+Visualize: False
+Keyword detector initialized. Language: en-US, Keywords: ['help', 'emergency', 'fall']
+Found 1 image-audio pairs.
+
+Processing pair 1/1: test_scene
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1746384059.304062    4692 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1746384059.368933    4692 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+  Fall Detection Result: False
+  Speech Recognition could not understand audio from test_scene.wav
+  Keyword Detection Result: 	None	 (Text: 	None	)
+  Decision Logic Action: NO_ACTION
+
+Dataset processing finished in 0.34 seconds.
+Results summary saved to: /home/ubuntu/persistent_watching_listening/dummy_output/processing_results.csv
+Cleaned up dummy data and output directories.
+ubuntu@sandbox:~/persistent_watching_listening $

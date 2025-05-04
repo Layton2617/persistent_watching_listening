@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+numpy
+SpeechRecognition
+pandas
+kagglehub
+matplotlib
+seaborn
+scikit-learn
