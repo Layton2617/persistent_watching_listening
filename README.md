@@ -162,7 +162,4 @@ See the generated `evaluation_report.md` and associated PNG images in the output
 *   Explore other relevant datasets.
 *   Combine visual and auditory information using multi-modal models.
 
-## 8. Disclaimer
-
-This project is intended for research and learning purposes only and cannot replace professional medical or caregiving equipment. The developer assumes no responsibility for any consequences arising from the use of this project.
 
