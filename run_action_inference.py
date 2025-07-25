@@ -1,5 +1,4 @@
-# -*- coding: utf-8 -*-
-"""Script to run action recognition inference on a sample video."""
+
 
 import sys
 import os
