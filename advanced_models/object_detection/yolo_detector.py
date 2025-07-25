@@ -1,5 +1,3 @@
-# /home/ubuntu/persistent_watching_listening_en/advanced_models/object_detection/yolo_detector.py
-
 import torch
 import cv2
 import numpy as np
