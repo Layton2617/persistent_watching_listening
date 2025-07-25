@@ -1,4 +1,3 @@
-# /home/ubuntu/persistent_watching_listening/utils/video_utils.py
 
 import cv2
 import time
