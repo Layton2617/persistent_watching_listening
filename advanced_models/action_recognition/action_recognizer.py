@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Action Recognition Module using PyTorchVideo (e.g., SlowFast or 3D ResNet).
-"""
+
 
 import torch
 import json
