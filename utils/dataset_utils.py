@@ -1,4 +1,3 @@
-# /home/ubuntu/persistent_watching_listening/utils/dataset_utils.py
 
 import os
 from pathlib import Path
