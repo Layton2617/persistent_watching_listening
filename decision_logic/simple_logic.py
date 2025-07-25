@@ -1,5 +1,3 @@
-# /home/ubuntu/persistent_watching_listening/decision_logic/simple_logic.py
-
 import time
 
 class SimpleDecisionLogic:
