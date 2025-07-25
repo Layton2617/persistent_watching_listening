@@ -1,5 +1,3 @@
-# /home/ubuntu/persistent_watching_listening/listening/keyword_detector.py
-
 import speech_recognition as sr
 import os
 from pathlib import Path
